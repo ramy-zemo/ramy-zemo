@@ -50,3 +50,11 @@
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramy-zemo&theme=radical">
 </p>
+
+<p align="center">
+<img src="badges/SQL%20(Basic).png"/>
+<img src="badges/C%23%20(Basic).png"/>
+<img src="badges/Rest%20API%20(Intermediate).png"/>
+<img src="badges/Python%20(Basic).png"/>
+<img src="badges/Java%20(Basic).png"/>
+</p>
