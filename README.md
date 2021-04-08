@@ -51,6 +51,8 @@
   <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramy-zemo&theme=radical">
 </p>
 
+<br>
+
 <p align="center">
 <img src="badges/SQL%20(Basic).png"/>
 <img src="badges/C%23%20(Basic).png"/>
