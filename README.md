@@ -50,13 +50,25 @@
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramy-zemo&theme=radical">
 </p>
-
 <br>
-
 <p align="center">
+<a href="https://www.hackerrank.com/certificates/990dac7b432c">
 <img src="badges/SQL%20(Basic).png"/>
+</a>
+
+<a href="https://www.hackerrank.com/certificates/cabfdbaf9116">
 <img src="badges/C%23%20(Basic).png"/>
+</a>
+
+<a href="https://www.hackerrank.com/certificates/489b008eca07">
 <img src="badges/Rest%20API%20(Intermediate).png"/>
+</a>
+
+<a href="https://www.hackerrank.com/certificates/f98c94d091fb">
 <img src="badges/Python%20(Basic).png"/>
+</a>
+
+<a href="https://www.hackerrank.com/certificates/8eab509f854e">
 <img src="badges/Java%20(Basic).png"/>
+</a>
 </p>
