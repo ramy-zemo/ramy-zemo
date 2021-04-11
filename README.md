@@ -52,23 +52,9 @@
 </p>
 <br>
 <p align="center">
-<a href="https://www.hackerrank.com/certificates/990dac7b432c" target="_blank">
 <img src="badges/SQL%20(Basic).png"/>
-</a>
-
-<a href="https://www.hackerrank.com/certificates/cabfdbaf9116" target="_blank">
 <img src="badges/C%23%20(Basic).png"/>
-</a>
-
-<a href="https://www.hackerrank.com/certificates/489b008eca07" target="_blank">
 <img src="badges/Rest%20API%20(Intermediate).png"/>
-</a>
-
-<a href="https://www.hackerrank.com/certificates/f98c94d091fb" target="_blank">
 <img src="badges/Python%20(Basic).png"/>
-</a>
-
-<a href="https://www.hackerrank.com/certificates/8eab509f854e" target="_blank">
 <img src="badges/Java%20(Basic).png"/>
-</a>
 </p>
